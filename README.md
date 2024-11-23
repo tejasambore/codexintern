@@ -79,11 +79,13 @@ npm start
 ```
 
 ---
+
 📧 Contact
 Feel free to connect with me for any queries or collaborations:
 Email: tejasambore2003@gmail.com
 GitHub: tejasambore
 LinkedIn: https://www.linkedin.com/in/tejasambore
+
 ---
 
 ## ⭐ If you find this repository helpful, please consider giving it a star!
